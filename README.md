@@ -14,6 +14,8 @@ const andreangrc = {
 }
 ````
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreangrc&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreangrc&theme=dracula&show_icons=true)
 
 <!--
