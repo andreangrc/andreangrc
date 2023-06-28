@@ -12,7 +12,9 @@ const andreangrc = {
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
+````
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreangrc&theme=dracula&show_icons=true)
 
 <!--
 **andreangrc/andreangrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
